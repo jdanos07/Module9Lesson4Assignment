@@ -1,0 +1,1 @@
+All tasks for part 1 and 2 have been completed on the "skills.html" in the "Tasks" Folder.
